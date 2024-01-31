@@ -2,7 +2,7 @@
 //  LOTRconverter17AppApp.swift
 //  LOTRconverter17App
 //
-//  Created by ldi_hyohwako on 2024/01/09.
+//  Created by hyohwako on 2024/01/09.
 //
 
 import SwiftUI
